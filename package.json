@@ -1,0 +1,33 @@
+{
+  "name": "some-own",
+  "version": "0.0.0",
+  "description": "Like [].some but for objects",
+  "author": "Ryan Van Etten",
+  "license": "CC0-1.0",
+  "main": "some-own.js",
+  "scripts": {
+    "preversion": "npm ls",
+    "pretest": "eslint .",
+    "test": "node test",
+    "version": "npm test"
+  },
+  "homepage": "https://github.com/ryanve/some-own",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanve/some-own.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ryanve/some-own/issues"
+  },
+  "keywords": [
+    "object",
+    "utility",
+    "iteration",
+    "some",
+    "for-own",
+    "own"
+  ],
+  "devDependencies": {
+    "eslint": "^4.13.0"
+  }
+}
