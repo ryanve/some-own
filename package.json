@@ -20,11 +20,13 @@
     "url": "https://github.com/ryanve/some-own/issues"
   },
   "keywords": [
-    "object",
-    "utility",
+    "javascript",
     "iteration",
-    "some",
+    "iterate",
+    "utility",
     "for-own",
+    "object",
+    "some",
     "own"
   ],
   "devDependencies": {
