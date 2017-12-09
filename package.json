@@ -1,6 +1,6 @@
 {
   "name": "some-own",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Like [].some but for objects",
   "author": "Ryan Van Etten",
   "license": "CC0-1.0",
