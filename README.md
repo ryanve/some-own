@@ -48,3 +48,7 @@ let array = []
 someOwn({x: 5, y: 0}, value => array.push(value) > 10) // false
 array.length // 2
 ```
+
+## BFF
+
+[`every-own`](https://www.npmjs.com/package/every-own)
